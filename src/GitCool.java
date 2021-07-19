@@ -7,6 +7,8 @@ public class GitCool {
     //we have added our GitHub account under intellj
     //make sure to click apply and click on to save
 
+    //create the link  between local repo to remote repo
+
 
 
 }
